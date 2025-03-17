@@ -8,7 +8,7 @@ function preencherProjetos() {
     setTimeout(() => {
         const projetos = [
             {
-                img: "src/img/LogoEduvale.png",
+                img: "assets/img/LogoEduvale.png",
                 titulo: "Sound Nave",
                 descricao: "Versão adaptada do jogo Galaga para deficientes visuais, feito para Faculdade Eduvale Avaré.",
                 link: "github.com/Will-Fogaca/SoundNave"

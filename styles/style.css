@@ -206,9 +206,9 @@
   .footer p {
     color: #777;
   }
-  
 
-  @media (max-width: 768px) {
+   /* 📱 Mobile (até 600px) */
+   @media (max-width: 600px) {
     .apresentacao-content {
       flex-direction: column;
       text-align: center;
@@ -218,4 +218,15 @@
       margin: 0 auto;
     }
   }
-  
+
+  /* 📲 Tablets (601px a 1024px) */
+  @media (max-width: 1024px) and (min-width: 601px) {
+    .apresentacao-content {
+      flex-direction: column;
+      text-align: center;
+    }
+    .apresentacao-image img {
+      width: 200px;
+      margin: 0 auto;
+    }
+  }
