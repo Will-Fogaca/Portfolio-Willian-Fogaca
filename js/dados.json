@@ -1,0 +1,18 @@
+    {
+        img: "assets/img/LogoEduvale.png",
+        titulo: "Sound Nave",
+        descricao: "Versão adaptada do jogo Galaga para deficientes visuais, feito para Faculdade Eduvale Avaré.",
+        link: "https://github.com/Will-Fogaca/SoundNave"
+    },
+    {
+        img: "",
+        titulo: "Projeto B",
+        descricao: "Descrição do projeto B",
+        link: "#"
+    },
+    {
+        img: "",
+        titulo: "Projeto C",
+        descricao: "Descrição do projeto C",
+        link: "#"
+    }
